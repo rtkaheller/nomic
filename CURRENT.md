@@ -64,12 +64,12 @@ solely on account of the self-reference or self-application of a rule.
 **116:** Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the
 rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
-**201:** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts
+**201 (Mutable):** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts
 of turns may not be omitted. All players begin with zero points.
 
 In mail and computer games, players shall alternate in alphabetical order by surname
 
-**202:** One turn consists of two parts in this order:
+**202 (Mutable):** One turn consists of two parts in this order:
   (1) proposing one rule-change and having it voted on, and
   (2) throwing one die once and adding the number of points on its face to one's score.
 
@@ -78,29 +78,29 @@ and multiply the result by the fraction of favorable votes it received, rounded 
 number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded
 for more popular proposals.)
 
-**203:** A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by
+**203 (Mutable):** A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by
 the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
-**204:** If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive
+**204 (Mutable):** If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive
 10 points each.
 
-**205:** An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
+**205 (Mutable):** An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
-**206:** When a proposed rule-change is defeated, the player who proposed it loses 10 points.
+**206 (Mutable):** When a proposed rule-change is defeated, the player who proposed it loses 10 points.
 
-**207:** Each player always has exactly one vote.
+**207 (Mutable):** Each player always has exactly one vote.
 
-**208:** The winner is the first player to achieve 100 (positive) points.
+**208 (Mutable):** The winner is the first player to achieve 100 (positive) points.
 
 In mail and computer games, the winner is the first player to achieve 200 (positive) points.
 
-**209:** At no time may there be more than 25 mutable rules.
+**209 (Mutable):** At no time may there be more than 25 mutable rules.
 
-**210:** Players may not conspire or consult on the making of future rule-changes unless they are team-mates.
+**210 (Mutable):** Players may not conspire or consult on the making of future rule-changes unless they are team-mates.
 
 The first paragraph of this rule does not apply to games by mail or computer
 
-**211:** If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another,
+**211 (Mutable):** If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another,
 then the rule with the lowest ordinal number takes precedence.
 
 If at least one of the rules in conflict explicitly says of itself that it defers to another rule (or type of rule) or
@@ -110,7 +110,7 @@ determining precedence.
 If two or more rules claim to take precedence over one another or to defer to one another, then the numerical method
 again governs.
 
-**212:** If players disagree about the legality of a move or the interpretation or application of a rule, then the player
+**212 (Mutable):** If players disagree about the legality of a move or the interpretation or application of a rule, then the player
 preceding the one moving is to be the Judge and decide the question. Disagreement for the purposes of this rule may be
 created by the insistence of any player. This process is called invoking Judgment.
 
@@ -131,7 +131,7 @@ by Judges shall be in accordance with all the rules then in effect; but when the
 unclear on the point at issue, then the Judge shall consider game-custom and the spirit of the game before applying
 other standards.
 
-**213:** If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with
+**213 (Mutable):** If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with
 finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first
 player unable to complete a turn is the winner.
 

@@ -1,0 +1,8 @@
+echo "Current list of nomic rules" > CURRENT.md
+echo "===========================" >> CURRENT.md
+for filename in rules/*; do
+  rule_num=$(basename $filename)
+  echo -n "**$rule_num:** " >> CURRENT.md
+  cat $filename >> CURRENT.md
+  echo "" >> CURRENT.md
+done
